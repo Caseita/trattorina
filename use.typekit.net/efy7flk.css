@@ -1,0 +1,63 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * fieldwork-hum:
+ *   - http://typekit.com/eulas/00000000000000007735ce7e
+ *   - http://typekit.com/eulas/00000000000000007735ce8d
+ *   - http://typekit.com/eulas/00000000000000007735ce94
+ * ivypresto-headline:
+ *   - http://typekit.com/eulas/00000000000000007735c598
+ * ivypresto-text:
+ *   - http://typekit.com/eulas/00000000000000007735c599
+ * turbinado-pro:
+ *   - http://typekit.com/eulas/00000000000000007735c812
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-03-08 22:24:32 UTC"}*/
+
+@import url("../p.typekit.net/pa032.css?s=1&amp;k=efy7flk&amp;ht=tk&amp;f=42593.42596.42597.44563.45417.45427&amp;a=1166972&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"fieldwork-hum";
+src:url("af/706c5f/00000000000000007735ce7e/30/l6129?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n1&amp;v=3") format("woff2"),url("af/706c5f/00000000000000007735ce7e/30/d6129?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n1&amp;v=3") format("woff"),url("af/706c5f/00000000000000007735ce7e/30/a6129?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n1&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;font-stretch:normal;
+}
+
+@font-face {
+font-family:"fieldwork-hum";
+src:url("af/b7c09b/00000000000000007735ce8d/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/b7c09b/00000000000000007735ce8d/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/b7c09b/00000000000000007735ce8d/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"fieldwork-hum";
+src:url("af/f0edca/00000000000000007735ce94/30/l5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff2"),url("af/f0edca/00000000000000007735ce94/30/d5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff"),url("af/f0edca/00000000000000007735ce94/30/a5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"turbinado-pro";
+src:url("af/f7048b/00000000000000007735c812/30/l3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff2"),url("af/f7048b/00000000000000007735c812/30/d3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff"),url("af/f7048b/00000000000000007735c812/30/a3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ivypresto-headline";
+src:url("af/637100/00000000000000007735c598/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/637100/00000000000000007735c598/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/637100/00000000000000007735c598/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ivypresto-text";
+src:url("af/d5ed0d/00000000000000007735c599/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/d5ed0d/00000000000000007735c599/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/d5ed0d/00000000000000007735c599/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-fieldwork-hum { font-family: "fieldwork-hum",sans-serif; }
+.tk-turbinado-pro { font-family: "turbinado-pro",sans-serif; }
+.tk-ivypresto-headline { font-family: "ivypresto-headline",serif; }
+.tk-ivypresto-text { font-family: "ivypresto-text",serif; }
