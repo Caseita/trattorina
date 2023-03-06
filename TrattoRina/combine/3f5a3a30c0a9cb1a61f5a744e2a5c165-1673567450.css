@@ -15911,3 +15911,38 @@ h2.section-sub-heading {
       .ourDrinkSec h5.section-sub-heading {
         line-height: 1.5;
       }
+
+      .navbar-nav > li > a {
+        font-size: 15px !important;
+      }
+      
+      #layout-footer {
+        font-size: 20px;
+    }
+    
+    #layout-footer h6,
+    #layout-footer h5,
+    #layout-footer p {
+        font-size: inherit;
+    }
+
+    #layout-footer .easyInfoSec h6 span {
+        font-size: 16px;
+    }
+    
+    #layout-footer .easyInfoSec h5 span {
+        font-size: 16px;
+    }
+
+    .easyInfoSec.right h5 a:last-child {
+        font-size: 16px;
+      }
+
+      .homeBannerHolder .easyInfoSec h6.section-block-heading {
+        font-size: 22px;
+      }
+      
+      .homeBannerHolder .easyInfoSec h6.section-block-heading,
+      .homeBannerHolder .easyInfoSec h6.section-block-heading span {
+        font-size: 15px;
+      }
